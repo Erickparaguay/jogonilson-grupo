@@ -1,7 +1,6 @@
 var myGamePiece;
 var enemyGamePiece;
 var clouds = [];
-var stavar myGamePiece;
 var enemyGamePiece;
 var clouds = [];
 var stars = [];
